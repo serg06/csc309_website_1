@@ -1,0 +1,12 @@
+/restaurantMash/lib/dbconnect_string.php
+/restaurantMash/sess/*
+.idea/
+/*.zip
+
+# assignment-submission-related files
+restaurantMash/README.txt
+restaurantMash/dev/admin.txt
+restaurantMash/dev/features.txt
+restaurantMash/dev/members.txt
+restaurantMash/dev/version.txt
+
