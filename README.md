@@ -1,5 +1,9 @@
 # Assignment 1 for CSC309H5 - Programming on the Web.
 
+Try it out: https://cs.utm.utoronto.ca/~khasimkh/csc309_website_1/restaurantMash/.
+
+## Description
+
 This is a PHP website (no JS) built with an MVC methodology.
 
 The website is called "RestaurantMash".
@@ -38,13 +42,5 @@ Other features:
     - Backend validation (whitelisting, required fields.)
     - Error displaying.
 
-
-
-
-
-
-
----
-
-Setup instructions:
-  - TODO
+## Setup instructions:
+  - Run ./setup.sh (assumes your website is located at ~/www/%s).
