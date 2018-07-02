@@ -4,6 +4,7 @@
 require_once "lib/lib.php";
 require_once "model/CompeteApp.php";
 
+mkdir("sess", 0700);
 session_save_path("sess");
 session_start();
 
