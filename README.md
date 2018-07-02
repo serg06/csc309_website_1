@@ -44,3 +44,4 @@ Other features:
 
 ## Setup instructions:
   - Run ./setup.sh (assumes your website is located at ~/www/%s).
+  - It was made to easily setup on the UofT environment, so I don't suggest you try it yourself.
